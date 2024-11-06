@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arunesh Sharma</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arunesh2004&label=Profile%20views&color=0e75b6&style=flat" alt="arunesh2004" />
-</p>
-
 - 🌱 I’m currently learning **JAVA, DSA, and Web Development**
 - 💬 Ask me about **C, Java, HTML, CSS, and JavaScript**
 - 📫 Reach me at **sharmaarunesh07@gmail.com**
