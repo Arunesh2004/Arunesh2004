@@ -5,10 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=arunesh2004&label=Profile%20views&color=0e75b6&style=flat" alt="arunesh2004" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" />
+</p>
+
 - 🌱 I’m currently learning **JAVA, DSA, and Web Development**
-
 - 💬 Ask me about **C, Java, HTML, CSS, and JavaScript**
-
 - 📫 Reach me at **sharmaarunesh07@gmail.com**
 
 ---
