@@ -4,11 +4,11 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Coding Gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="300" />
 </p>
 
 <h2 align="center">🚀 About Me:</h2>
-<ul align="center" style="list-style-type:none;">
+<ul align="center" style="list-style-type:none; font-size:1.2em;">
   <li>🌱 I’m currently learning <strong>JAVA, DSA, and Web Development</strong></li>
   <li>💬 Ask me about <strong>C, Java, HTML, CSS, and JavaScript</strong></li>
   <li>📫 Reach me at <a href="mailto:sharmaarunesh07@gmail.com">sharmaarunesh07@gmail.com</a></li>
@@ -29,7 +29,7 @@
 ---
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
   </a>
@@ -85,4 +85,4 @@
 
 ---
 
-<p align="center">✨ <i>Crafted with love and a hint of caffeine!</i> ✨</p>
+<p align="center">✨ <i>Crafted with love, creativity, and a dash of coffee!</i> ✨</p>
