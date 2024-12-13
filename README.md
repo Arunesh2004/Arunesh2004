@@ -7,12 +7,12 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="300" />
 </p>
 
+---
+
 <h2 align="center">🚀 About Me</h2>
-<ul align="center" style="list-style-type:none; font-size:1.2em; margin: 0; padding: 0;">
-  <li>🌱 Currently diving into <strong>JAVA, DSA, and Web Development</strong></li>
-  <li>💬 Open to discussions on <strong>C, Java, HTML, CSS, and JavaScript</strong></li>
-  <li>📫 Reach me at <a href="mailto:sharmaarunesh07@gmail.com">sharmaarunesh07@gmail.com</a></li>
-</ul>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=🌱+Currently+learning+JAVA%2C+DSA%2C+and+Web+Development;💬+Ask+me+about+C%2C+Java%2C+HTML%2C+CSS%2C+JavaScript;📫+Reach+me+at+sharmaarunesh07%40gmail.com" alt="About Me Typing Animation" />
+</p>
 
 ---
 
@@ -23,6 +23,9 @@
   </a>
   <a href="https://www.leetcode.com/sharmaarunesh07" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="mailto:sharmaarunesh07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -48,39 +51,44 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+  </a>
 </p>
 
 ---
 
 <h2 align="center">📊 My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunesh2004&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arunesh2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunesh2004&theme=radical" alt="GitHub Streak" />
-</p>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunesh2004&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 <h2 align="center">🏅 GSSOC 24 Badges</h2>
 <details>
-  <summary><strong>Click to View Badges</strong></summary>
-  <p align="center" style="display:flex; flex-wrap:wrap; gap:15px;">
+  <summary><strong>🎖️ View Badges</strong></summary>
+  <p align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90" height="90" alt="Badge" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" height="90" alt="Badge" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" height="90" alt="Badge" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90" height="90" alt="Badge" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90" height="90" alt="Badge" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" height="90" alt="Badge" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90" height="90" alt="Badge" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="90" height="90" alt="Badge" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="90" height="90" alt="Badge" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="90" height="90" alt="Badge" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="90" height="90" alt="Badge" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="90" height="90" alt="Badge" />
   </p>
 </details>
 
 ---
 
-<p align="center">✨ <i>Thank you for visiting!</i> ✨</p>
+<h2 align="center">🌟 Fun Fact</h2>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Programming Joke" />
+</p>
+
+---
+
+<p align="center">✨ <i>Thanks for visiting! Let's connect and code together!</i> ✨</p>
