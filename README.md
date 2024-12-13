@@ -87,8 +87,9 @@
 
 <h2 align="center">🌟 Fun Fact</h2>
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Programming Joke" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Programming Joke" />
 </p>
+
 
 ---
 
