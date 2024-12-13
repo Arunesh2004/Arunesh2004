@@ -3,9 +3,11 @@
 
 ---
 
+<h2 align="center">🚀 About Me</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="300" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=🌱+Currently+learning+JAVA%2C+DSA%2C+and+Web+Development;💬+Ask+me+about+C%2C+Java%2C+HTML%2C+CSS%2C+JavaScript;📫+Reach+me+at+sharmaarunesh07%40gmail.com" alt="About Me Typing Animation" />
 </p>
+
 
 ---
 
