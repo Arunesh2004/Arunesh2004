@@ -121,3 +121,92 @@
 ---
 
 <p align="center">✨ <i>Thanks for visiting! Let's connect and code together!</i> ✨</p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Animals</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      background-color: #121212;
+      font-family: Arial, sans-serif;
+    }
+
+    .animal {
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      cursor: pointer;
+      transition: transform 0.3s ease-in-out;
+    }
+
+    .cat {
+      background-image: url('https://media.giphy.com/media/26AOMmDgf61rLfKnS/giphy.gif');
+      background-size: cover;
+      top: 50px;
+      left: 100px;
+    }
+
+    .dog {
+      background-image: url('https://media.giphy.com/media/3o6ZtpxfhwVfBC7dWS/giphy.gif');
+      background-size: cover;
+      top: 200px;
+      left: 300px;
+    }
+
+    .animal:hover {
+      transform: scale(1.2);
+    }
+
+    .animal:active {
+      transform: rotate(360deg);
+    }
+
+    @keyframes move {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(100vw); }
+      100% { transform: translateX(0); }
+    }
+
+    .moving {
+      animation: move 5s linear infinite;
+    }
+  </style>
+</head>
+<body>
+  <div class="animal cat moving" id="cat"></div>
+  <div class="animal dog moving" id="dog"></div>
+
+  <script>
+    // Event listeners for mouse interactions
+    document.getElementById('cat').addEventListener('click', function() {
+      alert('You clicked the cat!');
+    });
+
+    document.getElementById('dog').addEventListener('click', function() {
+      alert('You clicked the dog!');
+    });
+
+    document.getElementById('cat').addEventListener('mouseover', function() {
+      this.style.filter = 'brightness(1.5)';
+    });
+
+    document.getElementById('cat').addEventListener('mouseout', function() {
+      this.style.filter = 'brightness(1)';
+    });
+
+    document.getElementById('dog').addEventListener('mouseover', function() {
+      this.style.filter = 'brightness(1.5)';
+    });
+
+    document.getElementById('dog').addEventListener('mouseout', function() {
+      this.style.filter = 'brightness(1)';
+    });
+  </script>
+</body>
+</html>
+
